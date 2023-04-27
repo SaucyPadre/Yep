@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/www.samtapping.com/static/css/main.073c9b0a.css",
-    "main.js": "/www.samtapping.com/static/js/main.cc43137c.js",
-    "static/js/787.f38293ba.chunk.js": "/www.samtapping.com/static/js/787.f38293ba.chunk.js",
-    "static/media/logo.svg": "/www.samtapping.com/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
-    "index.html": "/www.samtapping.com/index.html",
-    "main.073c9b0a.css.map": "/www.samtapping.com/static/css/main.073c9b0a.css.map",
-    "main.cc43137c.js.map": "/www.samtapping.com/static/js/main.cc43137c.js.map",
-    "787.f38293ba.chunk.js.map": "/www.samtapping.com/static/js/787.f38293ba.chunk.js.map"
+    "main.css": "/build/static/css/main.073c9b0a.css",
+    "main.js": "/build/static/js/main.7eb737d0.js",
+    "static/js/787.f38293ba.chunk.js": "/build/static/js/787.f38293ba.chunk.js",
+    "static/media/logo.svg": "/build/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/build/index.html",
+    "main.073c9b0a.css.map": "/build/static/css/main.073c9b0a.css.map",
+    "main.7eb737d0.js.map": "/build/static/js/main.7eb737d0.js.map",
+    "787.f38293ba.chunk.js.map": "/build/static/js/787.f38293ba.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.073c9b0a.css",
-    "static/js/main.cc43137c.js"
+    "static/js/main.7eb737d0.js"
   ]
 }
